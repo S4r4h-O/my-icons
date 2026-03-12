@@ -2,17 +2,38 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="256"
-   viewBox="0 0 67.73333 67.73333"
+   width="48"
+   height="48"
+   viewBox="0 0 12.699999 12.699999"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   sodipodi:docname="sigma.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.1953125"
+     inkscape:cx="-21.750611"
+     inkscape:cy="43.814181"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(-356.65252,-116.6175)"><rect
+     transform="matrix(0.1875,0,0,0.1875,-66.872349,-21.865781)"><rect
        width="67.73333"
        height="67.73333"
        fill="#242938"
